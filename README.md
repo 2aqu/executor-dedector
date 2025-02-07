@@ -1,5 +1,5 @@
 # executor-dedector
-simply cracked memory reader, bringed @ finiac
+simply builded memory reader
 
 ## executor-tarayıcı
-basitçe düzenlenmiş bellek okuyucu, finiac'den çekildi.
+basitçe düzenlenmiş bellek okuyucu
